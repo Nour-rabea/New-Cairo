@@ -6,8 +6,6 @@
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1tlEVxzYFRE9K5iMwM5-Sw3mxmRTrwADh" width="980" height="640"></iframe>
-# Presentation
-<iframe src="https://drive.google.com/file/d/13Lu5cP9YIS-6NJfesXr8Fr0BMF7U92DD/preview" width="900" height="490"></iframe>
 
 # Copyrights
 <iframe src="nour signature.jpg" width="700" height="200"></iframe>
